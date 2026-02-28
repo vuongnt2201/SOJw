@@ -139,7 +139,7 @@ export function App() {
               : '/placeholder.svg'
 
             const stats = String(row['Chỉ số'] ?? '').trim()
-            const specialPassive = String(row['Nội tại đặc biệt'] ?? '').trim()
+            const specialPassive = String(row['Nội tại độc trân'] ?? '').trim()
             const notes = String(row['Ghi chú đặc biệt'] ?? '').trim()
 
             const classRatings: Record<ClassId, number> = {}
