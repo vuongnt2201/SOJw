@@ -19,7 +19,7 @@
   {
     "id": "ChuMonHan",
     "name": "Chu Môn Hận",
-    "stats": "AD +198-242\nAP +198-242\nChXác ngoại +73\nChXác nội +73\nThân pháp +19\nKhắc phái +215\nKháng phái +215\nPhá khiên +114",
+    "stats": "AD +198-242\r\nAP +198-242\r\nChXác ngoại +73\r\nChXác nội +73\r\nThân pháp +19\r\nKhắc phái +215\r\nKháng phái +215\r\nPhá khiên +114",
     "imageUrl": "/images/equipment/ChuMonHan.png",
     "overallRating": 4.92,
     "classRatings": {
@@ -30,13 +30,13 @@
       "cuu_linh": 4.9,
       "than_tuong": 4.9
     },
-    "specialPassive": "Kháng phái +160\nGấp đôi nếu không có đồng đội ở gần"
+    "specialPassive": "Kháng phái +160\r\nGấp đôi nếu không có đồng đội ở gần"
   },
   {
     "id": "AoMucDaDi",
     "name": "Áo Mục Dã Di",
     "stats": "",
-    "imageUrl": "/images/equipment/MucDaDi.png",
+    "imageUrl": "/images/equipment/AoMucDaDi.png",
     "overallRating": 3.73,
     "classRatings": {
       "thiet_y": 3,
@@ -46,13 +46,13 @@
       "cuu_linh": 3.9,
       "than_tuong": 3
     },
-    "specialPassive": "Tăng 5% sth khi đánh địch có trên 70% HP\nGiảm heal địch dưới 30% HP"
+    "specialPassive": "Tăng 5% sth khi đánh địch có trên 70% HP\r\nGiảm heal địch dưới 30% HP"
   },
   {
     "id": "AoHoaDiemViCong",
     "name": "Áo Hỏa Diệm Vi Công",
-    "stats": "Hỏa công +69\nKháng Hỏa +234\nKhiên khí +170",
-    "imageUrl": "/images/equipment/HoaDiemViCong.png",
+    "stats": "Hỏa công +69\r\nKháng Hỏa +234\r\nKhiên khí +170",
+    "imageUrl": "/images/equipment/AoHoaDiemViCong.png",
     "overallRating": 4.47,
     "classRatings": {
       "thiet_y": 4.8,
@@ -62,12 +62,12 @@
       "cuu_linh": 4,
       "than_tuong": 4.4
     },
-    "specialPassive": "Dưới 50% HP giảm 30% sth hỏa\nDưới 25% HP giảm 60% sth hỏa"
+    "specialPassive": "Dưới 50% HP giảm 30% sth hỏa\r\nDưới 25% HP giảm 60% sth hỏa"
   },
   {
     "id": "AoTienCuNguyen",
     "name": "Áo Tiên Cư Nguyên",
-    "stats": "Cho khoảng 125 - 150 nguyên tố (nếu trước khi lắp có 700 - 1200 nguyên tố)\nCho khoảng 360 - 600 def (nếu trước khi lắp có 3000 - 7000 def)",
+    "stats": "Cho khoảng 125 - 150 nguyên tố (nếu trước khi lắp có 700 - 1200 nguyên tố)\r\nCho khoảng 360 - 600 def (nếu trước khi lắp có 3000 - 7000 def)",
     "imageUrl": "/images/equipment/AoTienCuNguyen.png",
     "overallRating": 4.4,
     "classRatings": {
@@ -84,7 +84,7 @@
   {
     "id": "DaiChungSuDao",
     "name": "Đai chủng sư đạo",
-    "stats": "Căn cốt +19\nSức bền +19",
+    "stats": "Căn cốt +19\r\nSức bền +19",
     "imageUrl": "/images/equipment/DaiChungSuDao.png",
     "overallRating": 3.38,
     "classRatings": {
@@ -132,7 +132,7 @@
     "id": "DayChuyenTanTue",
     "name": "Dây chuyền tân tuế",
     "stats": "",
-    "imageUrl": "/images/equipment/DCTanTue.png",
+    "imageUrl": "/images/equipment/DayChuyenTanTue.png",
     "overallRating": 4.5,
     "classRatings": {
       "thiet_y": 4.5,
@@ -162,7 +162,7 @@
     "id": "MuThietThu",
     "name": "Mũ Thiết Thủ",
     "stats": "",
-    "imageUrl": "/images/equipment/NonThietThu.png",
+    "imageUrl": "/images/equipment/MuThietThu.png",
     "overallRating": 2.33,
     "classRatings": {
       "thiet_y": 4,
@@ -192,7 +192,7 @@
     "id": "DayChuyenMucDaDi",
     "name": "Dây Chuyền Mục Dã Di",
     "stats": "",
-    "imageUrl": "/placeholder.svg",
+    "imageUrl": "/images/equipment/DayChuyenMucDaDi.png",
     "overallRating": 4.33,
     "classRatings": {
       "thiet_y": 3.5,
