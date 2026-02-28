@@ -1,0 +1,252 @@
+[
+  {
+    "id": "ThaiSonDi",
+    "name": "Thái Sơn Di",
+    "stats": "ADCrit +56\r\nAPCrit +56\r\nNgto +168\r\nKhắc phái +215\r\nKháng phái +215\r\nNguyên tố +82\r\nATKmin +116\r\nATKmax +142",
+    "imageUrl": "/images/equipment/ThaiSonDi.png",
+    "overallRating": 5,
+    "classRatings": {
+      "thiet_y": 5,
+      "to_van": 5,
+      "huyet_ha": 5,
+      "toai_mong": 5,
+      "cuu_linh": 5,
+      "than_tuong": 5
+    },
+    "specialPassive": "Kháng/Khắc phái +25 khi có 1 đồng đội cùng mặc trang bị này ở cạnh, tối đa +750 khi trong bang chiến nếu ai cũng đeo",
+    "notes": "Toàn bộ member trong bang phải đeo"
+  },
+  {
+    "id": "ChuMonHan",
+    "name": "Chu Môn Hận",
+    "stats": "AD +198-242\nAP +198-242\nChXác ngoại +73\nChXác nội +73\nThân pháp +19\nKhắc phái +215\nKháng phái +215\nPhá khiên +114",
+    "imageUrl": "/images/equipment/ChuMonHan.png",
+    "overallRating": 4.92,
+    "classRatings": {
+      "thiet_y": 4.9,
+      "to_van": 4.9,
+      "huyet_ha": 4.9,
+      "toai_mong": 5,
+      "cuu_linh": 4.9,
+      "than_tuong": 4.9
+    },
+    "specialPassive": "Kháng phái +160\nGấp đôi nếu không có đồng đội ở gần"
+  },
+  {
+    "id": "AoMucDaDi",
+    "name": "Áo Mục Dã Di",
+    "stats": "",
+    "imageUrl": "/images/equipment/MucDaDi.png",
+    "overallRating": 3.73,
+    "classRatings": {
+      "thiet_y": 3,
+      "to_van": 3.5,
+      "huyet_ha": 4,
+      "toai_mong": 5,
+      "cuu_linh": 3.9,
+      "than_tuong": 3
+    },
+    "specialPassive": "Tăng 5% sth khi đánh địch có trên 70% HP\nGiảm heal địch dưới 30% HP"
+  },
+  {
+    "id": "AoHoaDiemViCong",
+    "name": "Áo Hỏa Diệm Vi Công",
+    "stats": "Hỏa công +69\nKháng Hỏa +234\nKhiên khí +170",
+    "imageUrl": "/images/equipment/HoaDiemViCong.png",
+    "overallRating": 4.47,
+    "classRatings": {
+      "thiet_y": 4.8,
+      "to_van": 4.8,
+      "huyet_ha": 5,
+      "toai_mong": 3.8,
+      "cuu_linh": 4,
+      "than_tuong": 4.4
+    },
+    "specialPassive": "Dưới 50% HP giảm 30% sth hỏa\nDưới 25% HP giảm 60% sth hỏa"
+  },
+  {
+    "id": "AoTienCuNguyen",
+    "name": "Áo Tiên Cư Nguyên",
+    "stats": "Cho khoảng 125 - 150 nguyên tố (nếu trước khi lắp có 700 - 1200 nguyên tố)\nCho khoảng 360 - 600 def (nếu trước khi lắp có 3000 - 7000 def)",
+    "imageUrl": "/images/equipment/AoTienCuNguyen.png",
+    "overallRating": 4.4,
+    "classRatings": {
+      "thiet_y": 4.6,
+      "to_van": 4.9,
+      "huyet_ha": 4,
+      "toai_mong": 4,
+      "cuu_linh": 4.3,
+      "than_tuong": 4.6
+    },
+    "specialPassive": "Giảm 40 kháng nguyên tố, tăng 320 thủ",
+    "notes": "Bị thần tương gõ đầu nhưng chịu dame mấy đứa khác tốt hơn"
+  },
+  {
+    "id": "DaiChungSuDao",
+    "name": "Đai chủng sư đạo",
+    "stats": "Căn cốt +19\nSức bền +19",
+    "imageUrl": "/images/equipment/DaiChungSuDao.png",
+    "overallRating": 3.38,
+    "classRatings": {
+      "thiet_y": 2,
+      "to_van": 3.8,
+      "huyet_ha": 2,
+      "toai_mong": 4,
+      "cuu_linh": 4.2,
+      "than_tuong": 4.3
+    },
+    "specialPassive": "Trừ 200 kháng thần tương, tố vấn",
+    "notes": "Đeo vào để bị thần tương đánh đau thêm 10%, đổi lại 1 tí nguyên tố như muối bỏ biển"
+  },
+  {
+    "id": "GiayTruyMenh",
+    "name": "Giày Truy Mệnh",
+    "stats": "",
+    "imageUrl": "/images/equipment/GiayTruyMenh.png",
+    "overallRating": 4.03,
+    "classRatings": {
+      "thiet_y": 3,
+      "to_van": 4.8,
+      "huyet_ha": 4,
+      "toai_mong": 2.5,
+      "cuu_linh": 5,
+      "than_tuong": 4.9
+    }
+  },
+  {
+    "id": "KiemPhoBan1",
+    "name": "Kiếm phó bản 1",
+    "stats": "",
+    "imageUrl": "/images/equipment/KiemPhoBan1.png",
+    "overallRating": 3.25,
+    "classRatings": {
+      "thiet_y": 2,
+      "to_van": 3.5,
+      "huyet_ha": 3.5,
+      "toai_mong": 3.5,
+      "cuu_linh": 3.5,
+      "than_tuong": 3.5
+    }
+  },
+  {
+    "id": "DayChuyenTanTue",
+    "name": "Dây chuyền tân tuế",
+    "stats": "",
+    "imageUrl": "/images/equipment/DCTanTue.png",
+    "overallRating": 4.5,
+    "classRatings": {
+      "thiet_y": 4.5,
+      "to_van": 4.5,
+      "huyet_ha": 4.5,
+      "toai_mong": 4.5,
+      "cuu_linh": 4.5,
+      "than_tuong": 4.5
+    }
+  },
+  {
+    "id": "AoSoTuongNgoc",
+    "name": "Áo Sở Tương Ngọc",
+    "stats": "",
+    "imageUrl": "/images/equipment/AoSoTuongNgoc.png",
+    "overallRating": 2.08,
+    "classRatings": {
+      "thiet_y": 1,
+      "to_van": 1,
+      "huyet_ha": 4,
+      "toai_mong": 1,
+      "cuu_linh": 1,
+      "than_tuong": 4.5
+    }
+  },
+  {
+    "id": "MuThietThu",
+    "name": "Mũ Thiết Thủ",
+    "stats": "",
+    "imageUrl": "/images/equipment/NonThietThu.png",
+    "overallRating": 2.33,
+    "classRatings": {
+      "thiet_y": 4,
+      "to_van": 2,
+      "huyet_ha": 2,
+      "toai_mong": 2,
+      "cuu_linh": 2,
+      "than_tuong": 2
+    }
+  },
+  {
+    "id": "GiayHongTu",
+    "name": "Giày Hồng Tụ",
+    "stats": "",
+    "imageUrl": "/images/equipment/GiayHongTu.png",
+    "overallRating": 1.88,
+    "classRatings": {
+      "thiet_y": 3,
+      "to_van": 1,
+      "huyet_ha": 1,
+      "toai_mong": 4.3,
+      "cuu_linh": 1,
+      "than_tuong": 1
+    }
+  },
+  {
+    "id": "DayChuyenMucDaDi",
+    "name": "Dây Chuyền Mục Dã Di",
+    "stats": "",
+    "imageUrl": "/placeholder.svg",
+    "overallRating": 4.33,
+    "classRatings": {
+      "thiet_y": 3.5,
+      "to_van": 4.5,
+      "huyet_ha": 4.5,
+      "toai_mong": 4.5,
+      "cuu_linh": 4.5,
+      "than_tuong": 4.5
+    }
+  },
+  {
+    "id": "KiemMong3",
+    "name": "Kiếm mộng 3",
+    "stats": "",
+    "imageUrl": "/images/equipment/KiemMong3.png",
+    "overallRating": 3,
+    "classRatings": {
+      "thiet_y": 3,
+      "to_van": 3,
+      "huyet_ha": 3,
+      "toai_mong": 3,
+      "cuu_linh": 3,
+      "than_tuong": 3
+    }
+  },
+  {
+    "id": "KiemMong4",
+    "name": "Kiếm mộng 4",
+    "stats": "",
+    "imageUrl": "/images/equipment/KiemMong4.png",
+    "overallRating": 3.58,
+    "classRatings": {
+      "thiet_y": 3.5,
+      "to_van": 4,
+      "huyet_ha": 3.5,
+      "toai_mong": 3.5,
+      "cuu_linh": 3.5,
+      "than_tuong": 3.5
+    }
+  },
+  {
+    "id": "NhanRong",
+    "name": "Nhẫn Rồng",
+    "stats": "",
+    "imageUrl": "/images/equipment/NhanRong.png",
+    "overallRating": 4,
+    "classRatings": {
+      "thiet_y": 4,
+      "to_van": 4,
+      "huyet_ha": 4,
+      "toai_mong": 4,
+      "cuu_linh": 4,
+      "than_tuong": 4
+    },
+    "notes": "Team đẩy lẻ"
+  }
+]
